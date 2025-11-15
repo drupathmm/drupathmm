@@ -1,7 +1,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/drupathmm">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+Drupath+M+M;Full-Stack+Developer+from+Kerala,+India;Building+projects+with+React,+Node.js+and+TypeScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+Drupath+M+M;Full-Stack+Developer+from+Kerala,+India;Building+projects+with+React,+Node.js+and+TypeScript" />
   </a>
 </p>
 
