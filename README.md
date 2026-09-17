@@ -73,33 +73,40 @@ I enjoy turning ideas into functional applications, from designing the user inte
 
 # 🚀 Featured Projects
 
-## 🛒 GoCart — Mini E-Commerce Platform
+## 🛒 GoCart — Full-Stack E-Commerce Platform
 
-A full-stack mini e-commerce application built with **Flutter and Supabase**.
+A modern mini e-commerce application built with **Flutter and Supabase**, featuring separate Buyer and Merchant experiences.
 
-**Key features:**
+### ✨ Key Features
 
-- 🔐 Email/password authentication
-- 👤 Buyer and Merchant roles
+- 🔐 Email & password authentication
+- 👤 Role-based Buyer and Merchant accounts
 - 🏪 Merchant product management
-- ➕ Add, edit and delete products
+- ➕ Add products
+- ✏️ Edit products
+- 🗑️ Delete products
 - 🔎 Product search
-- 🛍️ Shopping cart
 - 📦 Stock management
+- 🛍️ Shopping cart
+- ➕➖ Cart quantity management
+- 💰 Automatic cart total calculation
+- 👤 User profile
+- 🔒 Supabase Row Level Security (RLS)
 - 🗄️ PostgreSQL database
-- 🔒 Row Level Security
 - ⚡ Riverpod state management
-- 🌐 Flutter Web deployment
+- 🌐 Responsive Flutter Web interface
 - 🔄 GitHub Actions CI/CD
+- 🚀 Deployed with GitHub Pages
 
-**Tech:** `Flutter` `Dart` `Supabase` `PostgreSQL` `Riverpod` `GitHub Actions`
+**Tech Stack:**  
+`Flutter` `Dart` `Supabase` `PostgreSQL` `Riverpod` `Git` `GitHub Actions` `GitHub Pages`
 
 <p>
   <a href="https://github.com/drupathmm/gocart">
-    <img src="https://img.shields.io/badge/View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://drupathmm.github.io/gocart/">
-    <img src="https://img.shields.io/badge/Live%20Demo-6F52A1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-6F52A1?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -107,9 +114,9 @@ A full-stack mini e-commerce application built with **Flutter and Supabase**.
 
 ## 🪙 Crypto Currency Tracker
 
-A cryptocurrency monitoring application focused on market data, analytics, portfolio management, and market trends.
+A real-time cryptocurrency monitoring application with market analytics, portfolio management, and market trends.
 
-**Key features:**
+### ✨ Key Features
 
 - 📈 Cryptocurrency market monitoring
 - 💰 Portfolio management
@@ -117,11 +124,12 @@ A cryptocurrency monitoring application focused on market data, analytics, portf
 - 🔄 Real-time market data
 - 📉 Interactive charts
 
-**Tech:** `React` `TypeScript` `TailwindCSS` `CoinGecko API` `Chart.js`
+**Tech Stack:**  
+`React` `TypeScript` `TailwindCSS` `CoinGecko API` `Chart.js`
 
 <p>
   <a href="https://github.com/drupathmm/crypto-tracker">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -129,13 +137,22 @@ A cryptocurrency monitoring application focused on market data, analytics, portf
 
 ## 📊 HabitFlow — Expense & Habit Tracker
 
-A productivity application combining **habit tracking and expense management** to help users maintain consistency and monitor personal finances.
+A productivity application that combines **habit tracking and expense management** to help users build consistency while monitoring their finances.
 
-**Tech:** `React` `TypeScript` `Firebase`
+### ✨ Key Features
+
+- 🕒 Habit tracking
+- 💰 Expense management
+- 📊 Financial overview
+- 📈 Progress monitoring
+- 🔥 Consistency tracking
+
+**Tech Stack:**  
+`React` `TypeScript` `Firebase`
 
 <p>
   <a href="https://github.com/drupathmm/habitflow">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -143,17 +160,16 @@ A productivity application combining **habit tracking and expense management** t
 
 ## 🌐 Personal Portfolio
 
-A modern personal portfolio website designed to showcase my projects, technical skills, and development journey.
+A modern responsive portfolio website showcasing my projects, technical skills, and development journey.
 
-**Tech:** `React` `TailwindCSS`
+**Tech Stack:**  
+`React` `TailwindCSS`
 
 <p>
   <a href="https://github.com/drupathmm/portfolio">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
 
 # 📚 What I Work With
 
