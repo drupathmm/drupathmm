@@ -1,95 +1,167 @@
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://github.com/drupathmm">
+<!-- ===================== HERO ===================== -->
+
+<div align="center">
+
+# Hi, I'm Drupath M M 👋
+
+### Full-Stack Developer • BCA Graduate • Software Builder
+
+I build practical, modern applications with a focus on  
+**clean architecture, responsive interfaces, backend integration, and real-world functionality.**
+
+<br>
+
+<a href="https://github.com/drupathmm">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/drupathmm">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:drupathmm01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **BCA graduate and aspiring Full-Stack Developer** based in Kerala, India.
+
+I enjoy turning ideas into functional applications, from designing the user interface to connecting the frontend with databases and APIs.
+
+- 🎓 **BCA Graduate**
+- 💻 Focused on **Full-Stack Development**
+- 🧩 Interested in building practical, scalable applications
+- 🚀 Comfortable working with frontend, backend, databases, and APIs
+- 📚 Continuously improving my development and problem-solving skills
+- 📍 Kerala, India
+- 📫 `drupathmm01@gmail.com`
+
+---
+
+## 🛠️ Technical Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,typescript,tailwind,flutter,dart" />
+</p>
+
+### Backend & Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python" />
+</p>
+
+### Database, Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,git,github,vscode,docker" />
+</p>
+
+### Analytics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Also:** REST APIs • PostgreSQL • Responsive UI • Git/GitHub • State Management
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 GoCart — Mini E-Commerce Platform
+
+A full-stack mini e-commerce application built with **Flutter and Supabase**.
+
+**Key features:**
+
+- 🔐 Email/password authentication
+- 👤 Buyer and Merchant roles
+- 🏪 Merchant product management
+- ➕ Add, edit and delete products
+- 🔎 Product search
+- 🛍️ Shopping cart
+- 📦 Stock management
+- 🗄️ PostgreSQL database
+- 🔒 Row Level Security
+- ⚡ Riverpod state management
+- 🌐 Flutter Web deployment
+- 🔄 GitHub Actions CI/CD
+
+**Tech:** `Flutter` `Dart` `Supabase` `PostgreSQL` `Riverpod` `GitHub Actions`
+
+<p>
+  <a href="https://github.com/drupathmm/gocart">
+    <img src="https://img.shields.io/badge/View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://drupathmm.github.io/gocart/">
+    <img src="https://img.shields.io/badge/Live%20Demo-6F52A1?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
-🌟 I'm a passionate **Full-Stack Developer** and **BCA Graduate** who loves crafting impactful web apps.  
-💻 I specialize in building modern, responsive, and efficient digital experiences using **React**, **Node.js**, and **TypeScript**.  
-🎯 Focused on writing clean code, managing projects efficiently, and delivering results on time.  
-📍 Based in **Kerala, India** | 📧 **drupathmm01@gmail.com**
+## 🪙 Crypto Currency Tracker
 
----
+A cryptocurrency monitoring application focused on market data, analytics, portfolio management, and market trends.
 
-## 🚀 My Top Projects
+**Key features:**
 
-### 🪙 [Crypto Currency Tracker](https://github.com/drupathmm/crypto-tracker)
-📈 A real-time crypto monitoring web app with analytics, portfolio management, and market trends.  
-🧩 *Built with React, TypeScript, TailwindCSS, CoinGecko API & Chart.js.*
+- 📈 Cryptocurrency market monitoring
+- 💰 Portfolio management
+- 📊 Market analytics
+- 🔄 Real-time market data
+- 📉 Interactive charts
 
----
+**Tech:** `React` `TypeScript` `TailwindCSS` `CoinGecko API` `Chart.js`
 
-### 📊 [HabitFlow – Expense & Habit Tracker](https://github.com/drupathmm/habitflow)
-🕒 Combines habit tracking and expense management to build consistency and financial discipline.  
-⚙️ *Built with React, Firebase, and TypeScript.*
-
----
-
-### 🌐 [Personal Portfolio](https://github.com/drupathmm/portfolio)
-🎨 A sleek and modern personal portfolio showcasing my projects, skills, and achievements.  
-💻 *Developed using React and TailwindCSS.*
-
----
-
-## 🧰 Skills & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,typescript,nodejs,python,firebase,tailwind,powerbi,git,github,vscode" />
-</p>
-
-**Also skilled in:**  
-🗣️ Communication | 🧩 Project Management | ⏱️ Time Management
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drupathmm&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drupathmm&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=drupathmm&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
-
----
-
-## 🏆 Achievements & Highlights
-
-- 🧩 Completed multiple full-stack projects independently  
-- 💼 Strong foundation in React, Node.js, TypeScript & Python  
-- 📊 Experienced in Power BI for visual analytics  
-- 🚀 Proficient in teamwork, communication, and time management  
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/drupathmm" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:drupathmm01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/drupathmm">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+<p>
+  <a href="https://github.com/drupathmm/crypto-tracker">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=drupathmm&theme=tokyonight&no-frame=true&row=1&column=6" />
+## 📊 HabitFlow — Expense & Habit Tracker
+
+A productivity application combining **habit tracking and expense management** to help users maintain consistency and monitor personal finances.
+
+**Tech:** `React` `TypeScript` `Firebase`
+
+<p>
+  <a href="https://github.com/drupathmm/habitflow">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<p align="center">
-  <b>“Code with purpose. Design with clarity. Build with passion.”</b><br>
-  — <i>Drupath M M</i> 🧭
+## 🌐 Personal Portfolio
+
+A modern personal portfolio website designed to showcase my projects, technical skills, and development journey.
+
+**Tech:** `React` `TailwindCSS`
+
+<p>
+  <a href="https://github.com/drupathmm/portfolio">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+---
+
+# 📚 What I Work With
+
+```text
+Frontend        React • TypeScript • Flutter • Dart • HTML • CSS
+Backend         Node.js • Python • REST APIs
+Database        PostgreSQL • Supabase • Firebase
+State           Riverpod
+Tools           Git • GitHub • VS Code • Docker
+Deployment      GitHub Actions • GitHub Pages
+Analytics       Power BI
